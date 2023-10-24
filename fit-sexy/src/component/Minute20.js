@@ -21,7 +21,7 @@ const Minute20 = () => {
         </div>
         <div className="container">
         <div className="row mt-5">
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
           <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={Abs20min} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -31,7 +31,7 @@ const Minute20 = () => {
   </div>
 </div>
      </div>
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={bicep20min} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -41,7 +41,7 @@ const Minute20 = () => {
   </div>
 </div>
  </div>
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={carbs20min} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -53,7 +53,7 @@ const Minute20 = () => {
     </div>
         </div>
         <div className="row mt-5">
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
           <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={back20min} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -63,7 +63,7 @@ const Minute20 = () => {
   </div>
 </div>
      </div>
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={chest20min} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -73,7 +73,7 @@ const Minute20 = () => {
   </div>
 </div>
  </div>
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={shoulder20min} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -85,7 +85,7 @@ const Minute20 = () => {
     </div>
         </div>
         <div className="row mt-5">
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
           <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={tricep20min} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -95,7 +95,7 @@ const Minute20 = () => {
   </div>
 </div>
      </div>
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={forarm20min} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -105,7 +105,7 @@ const Minute20 = () => {
   </div>
 </div>
  </div>
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={leg20min} className="card-img-top" alt="..." />
   <div className="card-body">

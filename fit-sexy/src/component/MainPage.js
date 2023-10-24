@@ -11,7 +11,7 @@ const MainPage = () => {
     <div className="main-imgg">
         <img src={MainImg1}alt="" />
       <div className="text-up mt-5 px-5">
-      <h2>FIT&SEXY</h2>
+      <h2 >FIT&SEXY</h2>
       <p>No Pain No Gain !! <br /> Sweat is Sweet !!</p>
       <div class="center-div mt-5">
         <span></span>

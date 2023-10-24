@@ -14,11 +14,24 @@ const BodyLanguage = () => {
       <Nav/>
       <div className="main-div-bodylang">
         <div className="header">
-            Body Language
+        <span>B</span>
+        <span>o</span>
+        <span>d</span>
+        <span>y</span>
+        <span></span>
+        <span></span>
+        <span>L</span>
+        <span>a</span>
+        <span>n</span>
+        <span>g</span>
+        <span>u</span>
+        <span>a</span>
+        <span>g</span>
+        <span>e</span>
         </div>
         <div className="container">
  <div className="row">
-          <div className="col-md-4">
+          <div className="col-md-4 tool-mid">
 <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={Beopen} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -28,7 +41,7 @@ const BodyLanguage = () => {
   </div>
 </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 tool-mid">
           <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={Bepresent} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -38,7 +51,7 @@ const BodyLanguage = () => {
   </div>
 </div>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 tool-mid ">
           <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={voicebe} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -50,7 +63,7 @@ const BodyLanguage = () => {
           </div>
         </div>
         <div className="row mt-5">
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid" >
           <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={eyebe} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -60,7 +73,7 @@ const BodyLanguage = () => {
   </div>
 </div>
      </div>
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={demonbe} className="card-img-top" alt="..." />
   <div className="card-body">
@@ -70,7 +83,7 @@ const BodyLanguage = () => {
   </div>
 </div>
  </div>
-            <div className="col-md-4">
+            <div className="col-md-4 tool-mid">
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={smilebe} className="card-img-top" alt="..." />
   <div className="card-body">

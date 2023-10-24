@@ -16,13 +16,13 @@ const Challenges = () => {
       </div>
       <div className="container">
       <div className="row mt-5">
-            <div className="col-md-4 challe-img">
+            <div className="col-md-4 challe-img tool-mid">
                 <img src={Chale1} alt="" />
             </div>
-            <div className="col-md-4 challe-img">
+            <div className="col-md-4 challe-img tool-mid">
                 <img src={Chale2} alt="" />
             </div>
-            <div className="col-md-4 challe-img">
+            <div className="col-md-4 challe-img tool-mid">
                 <img src={Chale3} alt="" />
             </div>
         </div>
