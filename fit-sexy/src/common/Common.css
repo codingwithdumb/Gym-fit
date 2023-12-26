@@ -623,3 +623,12 @@ text-align: center;
         transform: scale(1);
     }
  }
+
+
+/* form log in css styling  */
+.log-form{
+    background-color:#0000;
+}
+.section-form-dat{
+background: #1779ff;
+}

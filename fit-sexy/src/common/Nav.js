@@ -36,7 +36,7 @@ const Nav = () => {
       </ul>
       <form className="d-flex">
         {/* <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/> */}
-        <button className="btn btn-outline-success fit-nav"  type="submit">LogIn</button>
+        <button className="btn btn-outline-success fit-nav"  type="submit"><Link to="/Login">LogIn</Link></button>
       </form>
     </div>
   </div>

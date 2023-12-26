@@ -14,6 +14,7 @@ import Workout from './component/Workout';
 import Challenges from './component/Challenges';
 import Minute20 from './component/Minute20';
 import BodyLanguage from './component/BodyLanguage';
+import LoginPage from './component/Login'
 function App() {
   return (
    <>
@@ -33,6 +34,7 @@ function App() {
           <Route path='/LowerBody' element={<LowerBody/>}/>
           <Route path='/Cardio' element={<Cardio/>}/>
           <Route path='/Workout' element={<Workout/>}/>
+          <Route path='/Login' element={<LoginPage/>}/>
   </Routes>
    </BrowserRouter>
 
